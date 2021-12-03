@@ -20,10 +20,7 @@ namespace Coba_Prima_Github
                 {
                     jumlah = jumlah + 1;
                 }
-                else
-                {
-                    jumlah = jumlah;
-                }
+                
             }
             if (jumlah > 2)
             {
